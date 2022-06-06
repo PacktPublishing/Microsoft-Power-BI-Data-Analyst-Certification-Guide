@@ -38,7 +38,7 @@ SUM(Sales[Gross Revenue])
 **Following is what you need for this book:**
 This book is for data analysts and BI professionals who want to become more competent in Microsoft Power BI. Although the content in this book will help you pass the PL-300 exam, there are plenty of other practical applications beyond exam preparation in the chapters. No prior experience with Power BI is needed.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-16).
 
 ### Software and Hardware List
 
