@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Errata
 
-* Page 345 (Answer 35): Instead of **Standard**, it should be **Enterprise.**. That is: 35. C – **Enterprise** mode needs to be used in the on-premises data gateway for multiple users to be able to use the gateway.
+* Page 345 (Answer 35): Instead of **Standard**, it should be **Enterprise**. That is: 35. C – **Enterprise** mode needs to be used in the on-premises data gateway for multiple users to be able to use the gateway.
 
 ### Related products <Other books you may enjoy>
 * Learn Power BI - Second Edition [[Packt]](https://www.packtpub.com/product/learn-power-bi-second-edition/9781801811958?utm_source=github&utm_medium=repository&utm_campaign=9781801811958) [[Amazon]](https://www.amazon.com/dp/1801811954)
